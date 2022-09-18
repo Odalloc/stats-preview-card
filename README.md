@@ -37,4 +37,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Odalloc](https://www.frontendmentor.io/profile/Odalloc)
-- Linkedln - [@MACollado](https://www.linkedin.com/in/maria-andrea-collado-b7533b23a/)
