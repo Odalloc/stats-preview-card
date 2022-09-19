@@ -22,10 +22,9 @@ body {
 }
 
 .card {
-  max-width: 1000px;
   max-height: 900px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   overflow: hidden;
   border-radius: 5px;
   margin: 20px;
@@ -54,6 +53,7 @@ body {
 
 .card-statistics {
   display: flex;
+  flex-wrap: wrap;
   justify-content: start;
   gap: 35px;
   text-transform: uppercase;
@@ -81,7 +81,7 @@ body {
   mix-blend-mode: multiply;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 850px) {
   .card-cover {
     order: 1;
   }
