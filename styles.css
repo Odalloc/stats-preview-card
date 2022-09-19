@@ -81,7 +81,7 @@ body {
   mix-blend-mode: multiply;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 640px) {
   .card-cover {
     order: 1;
   }
